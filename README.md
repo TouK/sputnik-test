@@ -1,2 +1,2 @@
 # sputnik-test
-Reference project showing how to configure Sputnik on Github with Travis CI
+Reference Java project showing how to configure Sputnik on Github with Travis CI or CircleCI
