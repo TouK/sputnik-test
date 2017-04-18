@@ -1,4 +1,6 @@
 class TestFile {
+    int x = 100;
+
     public String foo() {
         return "bar";
     }
